@@ -36,13 +36,14 @@ Automated tool for extracting probate case details and associated property data 
 
 ### Setup
 git clone https://github.com/yourusername/franklin-county-scraper.git
+
 cd franklin-county-scraper
+
 pip install -r requirements.txt
 
 ### Usage
 python scraper.py
 When prompted, enter:
-
 Date in YYYYMMDD format (e.g., 20230101)
 
 ### Output Files
